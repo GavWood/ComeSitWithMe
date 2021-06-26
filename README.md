@@ -4,7 +4,7 @@ Authors:
 
 Violeta Tsenova, Newcastle University, Newcastle upon Tyne
 
-email: violeta.tsenova2@ncl.uk
+email: v.tsenova2@ncl.uk
 
 Gavin Wood, Nortumbria University, Newcastle upon Tyne
 
