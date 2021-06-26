@@ -17,5 +17,5 @@ The movie for this project is called newcastle.mp4 and was added using GitHub LF
 https://git-lfs.github.com/
 
 
-Please note, it's my mum in the photo. My mum cared for someone living well with dementia - and gave me permission to use her photo to add a personal touch to the presentation. 
+The personal photo used is Yvette Wood. She cared for someone living with dementia - and gave permission to use her photo to add a personal touch to the presentation. 
 
